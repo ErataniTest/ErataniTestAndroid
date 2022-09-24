@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eratani App</string>
+    <string name="search">Pencarian</string>
+    <string name="stok_barang">Stok Barang</string>
+    <string name="animation">Animasi</string>
+    <string name="users">Users</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="status">Status</string>
+    <string name="submit">Submit</string>
+    <string name="form_not_complete">Harap lengkapi semua data</string>
+    <string name="order_more_than_stock">Total order melebihi stock</string>
+    <string name="title_form_animation">Atur jumlah detak per menit</string>
+    <string name="master_barang">Master Barang</string>
+    <string name="order">Order</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="stock">Stok</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="input_total_order">Jumlah Order</string>
+    <string name="save">Simpan</string>
+    <string name="confirm_checkout">Apakah Anda yakin ingin menyelesaikan pesanan?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_finish_order">Order selesai</string>
+</resources>
